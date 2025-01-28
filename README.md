@@ -1,1 +1,1 @@
-Jogo da velha criado em HTML, CSS e JS com o Socket.IO
+Eu desenvolvi um Jogo da Velha usando HTML, CSS e JavaScript, com a integração do Socket.IO para permitir que dois jogadores joguem em tempo real. A ideia era mostrar como a comunicação em tempo real funciona, permitindo que ambos os jogadores joguem simultaneamente no mesmo tabuleiro, mesmo estando em dispositivos diferentes.
